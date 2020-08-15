@@ -18,9 +18,15 @@
   "homepage": "https://github.com/SkyExit/Ochanic#readme",
   "dependencies": {
     "discord.js": "^12.2.0",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
   },
   "devDependencies": {
-    "eslint": "^7.6.0"
+    "eslint": "^7.6.0",
+    "glob": "^7.1.6",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
   }
 }
