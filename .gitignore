@@ -11,4 +11,4 @@ code/
 config.json
 dbm_actions/
 node_modules/
-/realConfig.json
+cConfig.json
