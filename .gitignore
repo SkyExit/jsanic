@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.eslintrc.json
+.idea/.gitignore
+.idea/Jsanic.iml
+.idea/discord.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+code/
+config.json
+dbm_actions/
+node_modules/

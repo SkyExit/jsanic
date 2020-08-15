@@ -1,0 +1,26 @@
+{
+  "name": "Jsanic",
+  "version": "1.5.0",
+  "description": "Mechanic 2.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyExit/Ochanic.git"
+  },
+  "author": "SkyExit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkyExit/Ochanic/issues"
+  },
+  "homepage": "https://github.com/SkyExit/Ochanic#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
