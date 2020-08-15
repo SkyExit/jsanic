@@ -41,7 +41,7 @@ client.on('message', message => {
 	try {
 		command.execute(message, args);
 	} catch (err) {
-		message.channel.send('Unknown Commando!')
+		message.channel.send('Unknown Command!')
 	}
 
 	if (command === 'user-info') {
