@@ -1,0 +1,7 @@
+{
+  "name": "BOT NAME",
+  "token": "BOT TOKEN",
+  "bot_id": "BOT ID",
+  "bot_owner": "BOT OWNER ID",
+  "prefix": "PREFIX"
+}
