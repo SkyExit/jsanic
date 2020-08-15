@@ -11,3 +11,4 @@ code/
 config.json
 dbm_actions/
 node_modules/
+!/realSettings.json
