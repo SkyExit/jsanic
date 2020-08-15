@@ -48,7 +48,7 @@ module.exports = class JsanicClient extends Client {
     }
 
     async start(token = this.token) {
-        this.utils.loadCommands();
+        await this.utils.loadCommands();
         await super.login(token);
     }
 }
