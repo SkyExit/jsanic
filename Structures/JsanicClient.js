@@ -22,7 +22,7 @@ module.exports = class JsanicClient extends Client {
 
             if(!message.guild || message.author.bot) return;
 
-            if(message.content.match(mentionRegex)) message.channel.send(`My prefix for ${message.guild.name} is \`${this.prefix}\`.`);
+            if(message.content.match(mentionRegex)) await message.channel.send(`My prefix for ${message.guild.name} is \`${this.prefix}\`.`);
 
             const prefix = message.content.match(mentionRegexPrefix) ?
                 message.content.match(mentionRegexPrefix)[0] : this.prefix;

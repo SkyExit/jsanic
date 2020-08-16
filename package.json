@@ -1,31 +1,34 @@
 {
   "name": "Jsanic",
-  "version": "1.5.0",
-  "description": "Mechanic 2.0",
+  "version": "2.1.2",
+  "description": "Mechanic Remastered",
   "main": "bot.js",
   "scripts": {
     "test": "."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SkyExit/Ochanic.git"
+    "url": "git+https://github.com/SkyExit/Jsanic.git"
   },
   "author": "SkyExit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SkyExit/Ochanic/issues"
+    "url": "https://github.com/SkyExit/Jsanic/issues"
   },
-  "homepage": "https://github.com/SkyExit/Ochanic#readme",
+  "homepage": "https://github.com/SkyExit/Jsanic#readme",
   "dependencies": {
     "discord.js": "^12.2.0",
+    "eslint-plugin-react": "^7.20.6",
     "fs": "0.0.1-security",
     "glob": "^7.1.6",
+    "moment": "^2.27.0",
     "path": "^0.12.7",
     "util": "^0.12.3"
   },
   "devDependencies": {
-    "eslint": "^7.6.0",
+    "eslint": "^7.7.0",
     "glob": "^7.1.6",
+    "ms": "^2.1.2",
     "path": "^0.12.7",
     "util": "^0.12.3"
   }
